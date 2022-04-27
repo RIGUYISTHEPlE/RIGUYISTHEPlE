@@ -3,13 +3,7 @@ IM NEW AT THIS SO PLEASE DONT HATE ON ME, IM TO STUPID
     -Visual Basic(VBS)
     -"Some" Block
 
-- 👋 Hi, I’m @RIGUYISTHEPlE
-- 👀 I’m interested in learning to code... thats why i made a account
-- 🌱 I’m currently learning how to code with HTML
-- 💞️ I’m looking to collaborate on Noting, im to stupid
-- 📫 How to reach me Riley.Bighetty@gmail.com
+  Im learning HTML, CSS, JavaScript
+  Im still new so i know very few HTML, just how to add buttons and print text
 
-<!---
-RIGUYISTHEPlE/RIGUYISTHEPlE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Contant Me at Riley.Bighetty@gmail.com
